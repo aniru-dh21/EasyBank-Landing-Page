@@ -10,3 +10,11 @@ This is a solution to the [Easybank Landing Page Challenge on Frontend Mentor](h
 - [My Process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+
+## Overview
+
+### The Challenge
+
+Your users should be able to:
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
