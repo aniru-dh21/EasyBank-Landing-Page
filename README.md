@@ -18,3 +18,8 @@ This is a solution to the [Easybank Landing Page Challenge on Frontend Mentor](h
 Your users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
+
+### Links
+
+- Solution URL: [Code](https://github.com/aniru-dh21/Easybank-Landing-Page)
+- Live Site URL: [Live](https://easybank-landing-page-nine-blond.vercel.app/)
