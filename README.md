@@ -33,3 +33,8 @@ Your users should be able to:
 - TypeScript
 - Tailwind CSS
 - Framer Motion
+
+## Author
+
+- Github - [@aniru-dh21](https://github.com/aniru-dh21)
+- Frontend Mentor - [@aniru-dh21](https://www.frontendmentor.io/profile/aniru-dh21)
