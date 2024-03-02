@@ -23,3 +23,13 @@ Your users should be able to:
 
 - Solution URL: [Code](https://github.com/aniru-dh21/Easybank-Landing-Page)
 - Live Site URL: [Live](https://easybank-landing-page-nine-blond.vercel.app/)
+
+## My Process
+
+### Built with
+
+- NextJS
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
